@@ -1,0 +1,8 @@
+{
+    "id": "song/itzy_icy",
+    "version": "1.0.0",
+    "name": "ITZY - Icy",
+    "samples": [
+        { "category": "FX", "padText": "Eh", "name": "FX - Eh", "path": "eh.wav"    }
+    ]
+}
